@@ -1,0 +1,372 @@
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\appsettings.Development.json
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\appsettings.json
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Company_Project.exe
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Company_Project.deps.json
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Company_Project.runtimeconfig.json
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Company_Project.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Company_Project.pdb
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Humanizer.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS Assignments\Company_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.csproj.AssemblyReference.cache
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.AssemblyInfoInputs.cache
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.AssemblyInfo.cs
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.csproj.CoreCompileInputs.cache
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\staticwebassets\msbuild.Company_Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Company_Project.props
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Company_Project.props
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Company_Project.props
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\scopedcss\bundle\Company_Project.styles.css
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.csproj.CopyComplete
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.dll
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\refint\Company_Project.dll
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.pdb
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\Company_Project.genruntimeconfig.cache
+D:\CS Assignments\Company_Project\obj\Debug\net6.0\ref\Company_Project.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\appsettings.Development.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\appsettings.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Company_Project.exe
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Company_Project.deps.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Company_Project.runtimeconfig.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Company_Project.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Company_Project.pdb
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Humanizer.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.csproj.AssemblyReference.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.AssemblyInfoInputs.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.AssemblyInfo.cs
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.csproj.CoreCompileInputs.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\staticwebassets\msbuild.Company_Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\staticwebassets\msbuild.build.Company_Project.props
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Company_Project.props
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Company_Project.props
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\staticwebassets.build.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\staticwebassets.development.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\scopedcss\bundle\Company_Project.styles.css
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.csproj.CopyComplete
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\refint\Company_Project.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.pdb
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\Company_Project.genruntimeconfig.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi-\obj\Debug\net6.0\ref\Company_Project.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.csproj.AssemblyReference.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.AssemblyInfoInputs.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.AssemblyInfo.cs
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.csproj.CoreCompileInputs.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\appsettings.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.exe
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.deps.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.runtimeconfig.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.pdb
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Company_Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Company_Project.props
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Company_Project.props
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Company_Project.props
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\scopedcss\bundle\Company_Project.styles.css
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.csproj.CopyComplete
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\refint\Company_Project.dll
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.pdb
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.genruntimeconfig.cache
+D:\CS Assignments\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\ref\Company_Project.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\appsettings.json
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.exe
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.deps.json
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.runtimeconfig.json
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.pdb
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.csproj.AssemblyReference.cache
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.AssemblyInfoInputs.cache
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.AssemblyInfo.cs
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.csproj.CoreCompileInputs.cache
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cs
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Company_Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Company_Project.props
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Company_Project.props
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Company_Project.props
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\scopedcss\bundle\Company_Project.styles.css
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.csproj.CopyComplete
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\refint\Company_Project.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.pdb
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.genruntimeconfig.cache
+D:\Company_Project\Login-Register-with-repository-WebApi\obj\Debug\net6.0\ref\Company_Project.dll
+D:\Company_Project\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.AssemblyInfo.cs
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\refint\Company_Project.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.pdb
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.exe
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.deps.json
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.runtimeconfig.json
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Company_Project.pdb
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Company_Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Company_Project.props
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Company_Project.props
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Company_Project.props
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\scopedcss\bundle\Company_Project.styles.css
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.csproj.CopyComplete
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\Company_Project.genruntimeconfig.cache
+C:\Users\hp\Desktop\My Latest Project\New\Login-Register-with-repository-WebApi\obj\Debug\net6.0\ref\Company_Project.dll
