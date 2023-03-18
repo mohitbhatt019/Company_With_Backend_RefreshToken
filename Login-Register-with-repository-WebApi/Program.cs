@@ -40,7 +40,6 @@ ConfigurationManager configuration = builder.Configuration;
 
 // Add services to the container.
 builder.Services.AddScoped<IAuthenticateRepository, AuthenticateRepository>();
-builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddScoped<ICompanyRepository, CompanyRepository>();
 builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddScoped<IDesignationRepository, DesignationRepository>();

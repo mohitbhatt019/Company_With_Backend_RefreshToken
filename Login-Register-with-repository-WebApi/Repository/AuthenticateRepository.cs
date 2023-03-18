@@ -56,12 +56,11 @@ namespace Company_Project.Repository
             }
             return _tokenGenrator.GenerateToken(userExist, false);
         }
-        //admin
-        //await _userManager.AddToRoleAsync(user, UserRoles.Role_Admin);
+       
 
         public async Task<ApplicationUser?> AddOrUpdateUserRefreshToken(ApplicationUser user)
         {
-            user.RefreshTokenValidDate = DateTime.Now.AddDays(_jwtSetting.RefreshTokenExpireDays);
+            user.RefreshTokenValidDate = DateTime.Now.AddSeconds(_jwtSetting.RefreshTokenExpireDays);
             var userD = await _userManager.UpdateAsync(user);
             return userD.Succeeded ? user : null;
         }
@@ -86,6 +85,8 @@ namespace Company_Project.Repository
             var user = await _userManager.CreateAsync(registerModel, registerModel.PasswordHash);
             //await _userManager.AddToRoleAsync(registerModel, UserRoles.Role_Admin);
 
+            //admin
+            //await _userManager.AddToRoleAsync(user, UserRoles.Role_Admin);
 
             // If user creation fails, return false
             if (!user.Succeeded) return false;

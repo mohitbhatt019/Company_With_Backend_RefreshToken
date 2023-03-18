@@ -232,7 +232,7 @@ const columns = [
             style={{ fontSize: "15px", padding: "10px 10px",fontWeight: "bold",
           }}
           >
-          Edit Compony
+          Edit 
           </button>
         ) : null}
 

@@ -14,7 +14,6 @@ namespace Company_Project.Models
         public DbSet<Leave> Leaves { get; set; }
         public DbSet<EmployeeDesignation>  employeeDesignations { get; set; }
 
-        public DbSet<TokenInfo> TokenInfo { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

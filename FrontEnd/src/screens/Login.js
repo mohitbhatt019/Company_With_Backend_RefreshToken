@@ -43,9 +43,10 @@ function Login() {
     if(d.data.status=1){
        
         localStorage.setItem("currentUser",d.data.token)
-        localStorage.setItem("usernameByLS",d.data.username)
+        localStorage.setItem("usernameByLS",d.data.userName)
         localStorage.setItem("userIsInRole",d.data.role)
-        console.log("currentUser")
+
+        console.log(d.data)
         
         alert("user Logged in");
         navigate("/company")

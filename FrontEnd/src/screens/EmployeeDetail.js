@@ -24,7 +24,7 @@ function EmployeeDetail(){
   const[leaveForm,setleaveForm]=useState({});
   let [specificLeaveList, setSpecificLeaveList] = useState([]);
 
-
+ let employeeId=localStorage.getItem("employeeIdOfCurrentUser")
 
 
       const leavechangeHandler=(event)=>{
@@ -47,7 +47,7 @@ function EmployeeDetail(){
 
    function getAll(name) {
         const token = localStorage.getItem('currentUser');
-        console.log(employeeForm)
+        //console.log(employeeForm)
 
         //console.log(employeeList)
         axios
@@ -57,7 +57,10 @@ function EmployeeDetail(){
           .then((response) => {
             debugger
             //console.log(response.data);
-            setEmployeeList(response.data);
+            setEmployeeList(response.data.employees);
+            console.log(response.data)
+            localStorage.setItem("employeeIdOfCurrentUser",response.data.employeeId)
+
            // console.log(response.data)
           })
           .catch((error) => {
@@ -71,13 +74,13 @@ function EmployeeDetail(){
 
 
       function updateClick(){
-        console.log(employeeForm)
+       // console.log(employeeForm)
         let name=localStorage.getItem("usernameByLS")
 
         debugger
 
         let token=localStorage.getItem("currentUser");
-      console.log(employeeForm)
+      //console.log(employeeForm)
         axios.put("https://localhost:44363/api/Employee",employeeForm,{headers:{Authorization:`Bearer ${token}`}}).then((d)=>{
           if(d.data){
             alert("Details updated sucessfully")
@@ -92,7 +95,7 @@ function EmployeeDetail(){
       function leaveClick(){
         debugger
         leaveForm.leaveStatus=2
-        console.log(leaveForm)
+        //console.log(leaveForm)
         let token=localStorage.getItem("currentUser")
         axios.post("https://localhost:44363/api/Leave/AddLeave",leaveForm,{headers:{Authorization: `Bearer ${token}`}}).then((d)=>{
           if(d.data.status==1){
@@ -115,7 +118,7 @@ function EmployeeDetail(){
           })
           .then((response) => {
             
-           console.log(response.data);
+           //console.log(response.data);
 
           
             setSpecificLeaveList(response.data);
@@ -123,9 +126,9 @@ function EmployeeDetail(){
             
         })
         .catch((error) => {
-            console.error(error);
+            //console.error(error);
         });
-        console.log(specificLeaveList);
+        //console.log(specificLeaveList);
       }
       
 
@@ -165,7 +168,8 @@ function EmployeeDetail(){
               { <td>
               <button onClick={()=>editClick(employee)} /*onChange={SpecificchangeHandler}*/ className='btn btn-info m-2' data-toggle='modal'data-target="#editModal">Edit</button>
               
-              <button className='btn btn-primary m-2' value={employeeForm.employeeId} data-target="#leaveModal" data-toggle="modal">Leave</button>              
+              <button className='btn btn-primary m-2' value={employeeForm.employeeId} data-target="#leaveModal" data-toggle="modal">Leave</button>    
+
                <button className='btn btn-secondary m-2' onClick={()=>getSpecificEmployeeLeaves(employee.employeeId)} value={employee.employeeId} data-target="#specificleaveModal" data-toggle="modal">Leave status</button> 
               
             </td>  }
@@ -197,7 +201,7 @@ function EmployeeDetail(){
               </label>
               <div className='col-sm-8'>
                 <input type="text" id="txtname" name="employeeId" placeholder="Employee Id"
-                className="form-control"  value={leaveForm.employeeId} onChange={leavechangeHandler}
+                className="form-control" disabled value={employeeId} onChange={leavechangeHandler}
                 />
               </div>
             </div>

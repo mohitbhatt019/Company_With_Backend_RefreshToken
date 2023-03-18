@@ -46,6 +46,7 @@ namespace Company_Project.Repository
             {
                 user.RefreshToken = GenerateRefreshToken();
             }
+
             return user;
         }
         #endregion

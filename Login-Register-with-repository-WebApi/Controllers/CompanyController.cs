@@ -470,13 +470,13 @@ namespace Company_Project.Controllers
             }
 
             //Here i want EmployeeId and want to send it in frontend so finding EmployeeId
-            //var emp = _context.Employees.FirstOrDefault(a => a.ApplicationUserId == user.Id);
-            //if (employees == null)
-            //{
-            //    return NotFound(new { message = "Employee not found" });
-            //}
-            //var employeeId = emp.EmployeeId;
-            return Ok(employees);
+            var emp = _context.Employees.FirstOrDefault(a => a.ApplicationUserId == user.Id);
+            if (employees == null)
+            {
+                return NotFound(new { message = "Employee not found" });
+            }
+            var EmployeeId = emp.EmployeeId;
+            return Ok(new {employees, EmployeeId });
         }
 
     }

@@ -18,7 +18,6 @@ namespace Company_Project.Controllers
         private readonly RoleManager<IdentityRole> _roleManager;
         private readonly IConfiguration _configuration;
         private readonly IAuthenticateRepository _authenticateRepository;
-        private readonly ITokenService _tokenService;
         private readonly ApplicationDbContext _context;
         private readonly ICompanyRepository _companyRepository;
 
@@ -29,14 +28,13 @@ namespace Company_Project.Controllers
             UserManager<ApplicationUser> userManager,
             RoleManager<IdentityRole> roleManager,
             IConfiguration configuration,
-            IAuthenticateRepository authenticateRepository, ITokenService tokenService, ApplicationDbContext context,
+            IAuthenticateRepository authenticateRepository,ApplicationDbContext context,
             ICompanyRepository companyRepository)
         {
             _userManager = userManager;
             _roleManager = roleManager;
             _configuration = configuration;
             _authenticateRepository = authenticateRepository;
-            _tokenService = tokenService;
             _context = context;
             _companyRepository = companyRepository;
 
@@ -88,7 +86,7 @@ namespace Company_Project.Controllers
             var userAuthorize = await _authenticateRepository.AuthenticateUser(loginModel.Username, loginModel.Password);
           
                 if (userAuthorize == null) return NotFound("Invalid Attempt");
-                return Ok(userAuthorize);
+                return Ok(  userAuthorize );
         }
 
     }
