@@ -37,7 +37,7 @@ namespace Company_Project.Repository
                         // here if role not passed then by default role will be Employee.
                         new Claim(ClaimTypes.Role, user.Role??"Employee")
                 }),
-                Expires = DateTime.UtcNow.AddMinutes(_appSettingJWT.TokenValidityInMinutes),
+                Expires = DateTime.UtcNow.AddSeconds(_appSettingJWT.TokenValidityInMinutes),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
             };
             var token = tokenHandler.CreateToken(tokenDescritor);

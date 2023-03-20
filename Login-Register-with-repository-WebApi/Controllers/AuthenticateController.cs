@@ -20,6 +20,7 @@ namespace Company_Project.Controllers
         private readonly IAuthenticateRepository _authenticateRepository;
         private readonly ApplicationDbContext _context;
         private readonly ICompanyRepository _companyRepository;
+        private readonly IRefreshTokenGenerator _jwtManager;
 
 
 
@@ -29,7 +30,7 @@ namespace Company_Project.Controllers
             RoleManager<IdentityRole> roleManager,
             IConfiguration configuration,
             IAuthenticateRepository authenticateRepository,ApplicationDbContext context,
-            ICompanyRepository companyRepository)
+            ICompanyRepository companyRepository, IRefreshTokenGenerator jwtManager)
         {
             _userManager = userManager;
             _roleManager = roleManager;
@@ -37,7 +38,7 @@ namespace Company_Project.Controllers
             _authenticateRepository = authenticateRepository;
             _context = context;
             _companyRepository = companyRepository;
-
+            _jwtManager = jwtManager;
         }
         [HttpPost]
         [Route("Register")]
@@ -87,6 +88,38 @@ namespace Company_Project.Controllers
           
                 if (userAuthorize == null) return NotFound("Invalid Attempt");
                 return Ok(  userAuthorize );
+        }
+
+        [Route("RefreshToken")]
+        [HttpPost]
+        public async Task<IActionResult> RefreshToken(Refreshtoken userToken)
+        {
+            if (userToken == null || !ModelState.IsValid)
+            {
+                return BadRequest();
+            }
+            var claimToken = _jwtManager.GetClaimsFromExpiredToken(userToken.Token);
+            if (claimToken == null)
+            {
+                return BadRequest();
+            }
+            var claimIdentity = claimToken.Identity as ClaimsIdentity;
+            var claimUser = claimIdentity?.FindFirst(ClaimTypes.Name) ?? null;
+            if (claimUser == null)
+            {
+                return Unauthorized();
+            }
+            var checkInDb = await _authenticateRepository.CheckUserInDb(claimUser.Value);
+            if (checkInDb == null) { return BadRequest(); }
+            if (checkInDb.RefreshToken != userToken.RefreshToken) return Unauthorized("Go Login First");
+            if (checkInDb.RefreshTokenValidDate < DateTime.Now) return BadRequest();
+            var generateNewToken = _jwtManager.GenerateToken(checkInDb, false);
+            Refreshtoken usertoken = new Refreshtoken()
+            {
+                Token = generateNewToken?.Token ?? "null",
+                RefreshToken = generateNewToken?.RefreshToken ?? "null",
+            };
+            return Ok(usertoken);
         }
 
     }

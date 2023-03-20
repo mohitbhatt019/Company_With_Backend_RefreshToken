@@ -7,6 +7,10 @@ namespace Company_Project.Repository.IRepository
         Task<bool> IsUnique(string userName);
         Task<ApplicationUser> AuthenticateUser(string userName, string userPassword);
         Task<bool> RegisterUser(ApplicationUser registerModel);
+        Task<ApplicationUser?> AddOrUpdateUserRefreshToken(ApplicationUser user);
+
+        Task<ApplicationUser?> CheckUserInDb(string userName);
+
 
     }
 }

@@ -56,8 +56,15 @@ namespace Company_Project.Repository
             }
             return _tokenGenrator.GenerateToken(userExist, false);
         }
-       
 
+        public async Task<ApplicationUser?> CheckUserInDb(string userName)
+        {
+            var UserInDb = await _userManager.FindByIdAsync(userName);
+            if (UserInDb == null) return null;
+            var userGetRole = await _userManager.GetRolesAsync(UserInDb);
+            UserInDb.Role = userGetRole?.FirstOrDefault();
+            return UserInDb;
+        }
         public async Task<ApplicationUser?> AddOrUpdateUserRefreshToken(ApplicationUser user)
         {
             user.RefreshTokenValidDate = DateTime.Now.AddSeconds(_jwtSetting.RefreshTokenExpireDays);

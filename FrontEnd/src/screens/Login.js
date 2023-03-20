@@ -42,7 +42,7 @@ function Login() {
 
     if(d.data.status=1){
        
-        localStorage.setItem("currentUser",d.data.token)
+        localStorage.setItem("currentUser",JSON.stringify(d.data))
         localStorage.setItem("usernameByLS",d.data.userName)
         localStorage.setItem("userIsInRole",d.data.role)
 
